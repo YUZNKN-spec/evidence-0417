@@ -1,0 +1,8 @@
+﻿﻿{
+  "appId": "com.evidence.e0417",
+  "appName": "证物 E-0417",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
